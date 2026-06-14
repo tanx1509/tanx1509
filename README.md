@@ -12,6 +12,7 @@
 
 ### About Me
 Consulting, Strategy & Product!
+
 Let's catch up at: [tanishq.14214802723@cse.mait.ac.in](mailto:tanishq.14214802723@cse.mait.ac.in) and [linkedin/tanx1509](https://www.linkedin.com/in/tanx1509)
 
 <br/>
