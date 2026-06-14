@@ -5,20 +5,14 @@
 <br/>
 
 <div align="center">
-  <h3>👋 Heyyo I am Tanishq</h3>
+  <h3> Ola, I am Tanishq <3 </h3>
 </div>
 
 <br/>
 
 ### About Me
-
-💡 I'm a student in Delhi, working on lots of tech related projects in different fields.<br>
-🎓 I am an engineer at MAIT, (B.Tech, Computer Science and Technology, Batch of 2027).<br>
-🚀 I'm on track for learning more about Artificial Intelligence, systems architecture and design.<br>
-👨‍💻 I'm currently building FORESIGHT and performing research in the field of AI.<br>
-👟 In my free time, I work on hackathons, surf the net, and pursue product building as my hobbies.<br>
-💬 Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!<br>
-✉️ You can email me at [tanishq.14214802723@cse.mait.ac.in](mailto:tanishq.14214802723@cse.mait.ac.in). I'll try to respond as soon as possible!
+Consulting, Stategy & Product!
+Let's catch up at: [tanishq.14214802723@cse.mait.ac.in](mailto:tanishq.14214802723@cse.mait.ac.in) and [linkedin/tanx1509](www.linkedin.com/in/tanx1509)
 
 <br/>
 
@@ -50,7 +44,7 @@
 
 <br/>
 
-### 🍎 Softwares I use
+###  Softwares I use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -78,7 +72,7 @@
 
 <br/>
 
-### 🐦 How to reach me
+###  How to reach me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tanx1509/">
