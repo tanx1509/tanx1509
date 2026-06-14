@@ -37,13 +37,6 @@ Let's catch up at: [tanishq.14214802723@cse.mait.ac.in](mailto:tanishq.142148027
 
 <br/>
 
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" width="100%" alt="Tech Banner">
-  <!-- (Note: The user's image banner from the screenshot is a custom graphic, this serves as a placeholder for a wide tech image) -->
-</div>
-
-<br/>
-
 ###  Softwares I use
 
 <p align="left">
