@@ -56,10 +56,7 @@ Let's catch up at: [tanishq.14214802723@cse.mait.ac.in](mailto:tanishq.142148027
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanx1509&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanx1509&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-</div>
-<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanx1509&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
